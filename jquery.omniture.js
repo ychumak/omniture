@@ -1,7 +1,7 @@
 /*!
  * jQuery plugin for web analytics with Omniture 1.0.0
  *
- * 
+ * https://github.com/ychumak/omniture
  * 
  * Copyright 2014 Yuriy Chumak
  * Released under the MIT license:
